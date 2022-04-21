@@ -6,11 +6,11 @@ kayıt ettiğiniz her ürün methodun yöntemine göre server/text klasörü alt
 front dosyasını çalıştırmak için
 
 
-[! npm run serve !]
+``` npm run serve ```
 
 server çalıştırmak için
 
 
-[! nodemon app !]
+``` nodemon app ```
 
 komutlarını çalıştırın
